@@ -1,1 +1,1 @@
-# ChartJS-Pr-tica
+# ChartJS-Pratica
